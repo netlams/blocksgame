@@ -12,6 +12,11 @@ class NavBar extends React.Component {
           "id": 1,
           "name": "Login",
           "path": "/login"
+        },
+        {
+          "id": 2,
+          "name": "Signup",
+          "path": "/signup"
         }
       ]
     };
